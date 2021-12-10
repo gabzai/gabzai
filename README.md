@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student at [Thales](https://www.thalesgroup.com/en) and [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html). 
+I am Crypto Expert at [Thales](https://www.thalesgroup.com/en). 
 
 I write code for deep learning-based side-channel analysis.
 
