@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am Crypto Expert at [Thales](https://www.thalesgroup.com/en). 
-
 I write code for deep learning-based side-channel analysis.
 
 - 🔭 I’m currently working on [side channel attacks](http://cryptowiki.net/index.php?title=Side-channel_attacks_on_cryptosystems) and [deep learning](https://www.deeplearningbook.org/).
