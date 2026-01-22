@@ -4,7 +4,7 @@ I write code for deep learning-based side-channel analysis.
 
 - 🔭 I’m currently working on [side channel attacks](http://cryptowiki.net/index.php?title=Side-channel_attacks_on_cryptosystems) and [deep learning](https://www.deeplearningbook.org/).
 - 🔑 Reach me on my mail to [gabriel.zaid54@gmail.com](mailto:gabriel.zaid54@gmail.com).
-- 🕸️ You can also find me in [website](gabriel-zaid.com) / [google scholar](https://scholar.google.com/citations?user=J5mNzgUAAAAJ&hl=fr&oi=ao) / [dblp](https://dblp.org/pid/247/1666.html) / [linkedin](https://www.linkedin.com/in/gzaid/).
+- 🕸️ You can also find me in [website](https://www.gabriel-zaid.com) / [google scholar](https://scholar.google.com/citations?user=J5mNzgUAAAAJ&hl=fr&oi=ao) / [dblp](https://dblp.org/pid/247/1666.html) / [linkedin](https://www.linkedin.com/in/gzaid/).
 
 
 [![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabzai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
